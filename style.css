@@ -4,26 +4,34 @@
     padding: 0;
 }
 
-
 .row {
     display: flex;
-    align-items: ;
 }
 
 .col {
 
-    flex: 4;
+    flex: 1;
     height: 50px;
-    width: 50px;
+    width: 10px;
     background-color: brown;
-
+    margin: 20px;
 }
 
 .col-2 {
-
+    height: 50px;
+    width: 10px;
+    flex: 1;
+    flex: 2;
+    background-color: brown;
+    margin: 20px;
 
 }
 
 .col-3 {
-
+    height: 50px;
+    width: 10px;
+    flex: 2;
+    flex: 3;
+    background-color: brown;
+    margin: 20px;
 }
