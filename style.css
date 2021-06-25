@@ -1,0 +1,29 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.row {
+    display: flex;
+    align-items: ;
+}
+
+.col {
+
+    flex: 4;
+    height: 50px;
+    width: 50px;
+    background-color: brown;
+
+}
+
+.col-2 {
+
+
+}
+
+.col-3 {
+
+}
